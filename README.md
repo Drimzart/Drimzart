@@ -29,7 +29,8 @@
 
 ### [COB Odontologia Integrada](https://github.com/Drimzart/cobodontologiaintegrada)
 
-Landing page profissional desenvolvida com React, Vite e Tailwind CSS. Em breve disponível em [https://cobodontologiaintegrada.vercel.app](https://cobodontologiaintegrada.vercel.app/)).
+Landing page profissional desenvolvida com React, Vite e Tailwind CSS.
+Disponível em [https://cobodontologiaintegrada.vercel.app](https://cobodontologiaintegrada.vercel.app/).
 
 ### [Todo List com Vite](https://github.com/Drimzart/todo-list-vite)
 
